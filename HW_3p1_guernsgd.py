@@ -1,20 +1,4 @@
-# Homework 3p1 Python Text Files
-# File: HW_3p1_guernsgd
-# Date:    4 Febuary 2021
-# By:      Grant Guernsey
-# Section: 007
-# Team:    110
-# 
-# ELECTRONIC SIGNATURE
-# Grant Guernsey
-#
-# The electronic signature above indicates the script
-# submitted for evaluation is my individual work, and I
-# have a general understanding of all aspects of its
-# development and execution.
-#
-# This program reads a doccument calculates a students final grade
-# and letter grade and prints it to a new text doccument
+
 
 import math
 
